@@ -1,4 +1,3 @@
-/* eslint-disable @typescript-eslint/no-unused-vars */
 import React from "react";
 
 interface CategoryProps {
@@ -15,8 +14,6 @@ interface CardProps {
 }
 
 const CategoryContent: React.FC<CardProps> = ({
-  title,
-  images,
   categories,
   filterByCategory,
 }) => {

@@ -1,4 +1,3 @@
-/* eslint-disable @typescript-eslint/no-unused-vars */
 import React from "react";
 import { useNavigate } from "react-router-dom";
 import Card from "react-bootstrap/Card";
@@ -15,7 +14,6 @@ interface ListProductDetail {
   images: string;
 }
 const ListProductDetail: React.FC<ListProductDetail> = ({
-  id,
   title,
   description,
   price,
