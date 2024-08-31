@@ -1,51 +1,69 @@
-# React + TypeScript + Vite
+<h1> <b style="color: green" >RevoU FSSE5 Berlin - Module 2 Assignment Week 4</b></h1>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+- [Introduction](#introduction)
+- [About Project - Milestone 2](#about-project---milestone-2)
+  - [1. How to Login to my page](#1-how-to-login-to-my-page)
+  - [2. How to use and logout.](#2-how-to-use-and-logout)
+- [Contact Me](#contact-me)
 
-Currently, two official plugins are available:
+# Introduction
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+<h1 style="color: green">Hello All!</h1>
 
-## Expanding the ESLint configuration
+I am Santo.
+This is my project for Revou FFSE Bootcamp.
 
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
+# About Project - Milestone 2
 
-- Configure the top-level `parserOptions` property like this:
+<p>This project implement Javascript, Typescript, and simple React coding as per learning course given.</p>
+<p>The project objective is developing a simple website using React TSX.</p>
+<p>Library used is TailwindCSS, MUI, and React Bootstrap.</p>
 
-```js
-export default tseslint.config({
-  languageOptions: {
-    // other options...
-    parserOptions: {
-      project: ['./tsconfig.node.json', './tsconfig.app.json'],
-      tsconfigRootDir: import.meta.dirname,
-    },
-  },
-})
-```
+<p>Within this README file, you can find some information related to:</p>
+<ol>
+<li>How to Login and Register.</li>
+<li>How to use the website.</li>
 
-- Replace `tseslint.configs.recommended` to `tseslint.configs.recommendedTypeChecked` or `tseslint.configs.strictTypeChecked`
-- Optionally add `...tseslint.configs.stylisticTypeChecked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and update the config:
+<h2 style="color: red">Let's Begin!</h2>
 
-```js
-// eslint.config.js
-import react from 'eslint-plugin-react'
+## 1. How to Login to my page
 
-export default tseslint.config({
-  // Set the react version
-  settings: { react: { version: '18.3' } },
-  plugins: {
-    // Add the react plugin
-    react,
-  },
-  rules: {
-    // other rules...
-    // Enable its recommended rules
-    ...react.configs.recommended.rules,
-    ...react.configs['jsx-runtime'].rules,
-  },
-})
-```
-# milestone-2-santoberuang
+<ol>
+<li type="a">
+    Fill email, password, name, role, and avatar.
+    Email: john@mail.com
+    Password:  changeme
+    Name: John
+    Role: customer
+    Avatar: https://i.imgur.com/LDOO4Qs.jpg
+</li>
+
+</ol>
+
+## 2. How to use and logout.
+
+<ol>
+<li type="a">
+    You can filter by Category or Products. </br>
+    
+</li>
+
+<li type="a">
+    You can check for details or add/remove some products.
+</li>
+
+<li type="a">
+    After ypu get bored, go fo Logout button. </br>
+   
+</li>
+
+</ol>
+
+# Contact Me
+
+ <ul>
+ <li>   Email: <a href="nursanto@gmail.com">nursanto@gmail.com</a>.</li>
+ <li>Deployment link:  <b><a href="http://www.morningray.my.id">http://www.morningray.my.id</a> or <a href=https://revou-fsse-5.github.io/milestone-2-santoberuang>https://revou-fsse-5.github.io/milestone-2-santoberuang/.</b></li>
+ </ul>
+<p></p>
+<p></p>
