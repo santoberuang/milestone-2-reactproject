@@ -5,6 +5,7 @@
   - [1. How to Login to my page](#1-how-to-login-to-my-page)
   - [2. How to use and logout.](#2-how-to-use-and-logout)
 - [Contact Me](#contact-me)
+- [milestone-2-reactproject](#milestone-2-reactproject)
 
 # Introduction
 
@@ -63,7 +64,7 @@ This is my project for Revou FFSE Bootcamp.
 
  <ul>
  <li>   Email: <a href="nursanto@gmail.com">nursanto@gmail.com</a>.</li>
- <li>Deployment link:  <b><a href="http://www.morningray.my.id">http://www.morningray.my.id</a> or <a href=https://revou-fsse-5.github.io/milestone-2-santoberuang>https://revou-fsse-5.github.io/milestone-2-santoberuang/.</b></li>
+ <li>Deployment link:  <b><a href="https://milestone-2-reactproject.vercel.app/">https://milestone-2-reactproject.vercel.app/</a> or <a href=https://revou-fsse-5.github.io/milestone-2-santoberuang>https://revou-fsse-5.github.io/milestone-2-santoberuang/.</b></li>
  </ul>
 <p></p>
 <p></p>
